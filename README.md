@@ -1,4 +1,10 @@
 # Core-Banking-System
+
+
+# Project Structure
+1. 'src/': Contains the Java source code files.
+2. 'database/': Includes SQL scripts for database setup.
+
 # Features
 1. User Registration & Login
 2. Account Creation
