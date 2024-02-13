@@ -1,15 +1,14 @@
 # Core-Banking-System
-1. Features
+# Features
+1. User Registration & Login
+2. Account Creation
+3. Debit and Credit Transactions
+4. Money Transfer Between Accounts
+5. Balance Inquiry
+6. Robust Security Measures
 
-User Registration & Login
-Account Creation
-Debit and Credit Transactions
-Money Transfer Between Accounts
-Balance Inquiry
-Robust Security Measures
-
-2. Technologies Used
+# Technologies Used
    
-Java
-JDBC (Java Database Connectivity)
-PostgreSQL
+1. Java
+2. JDBC (Java Database Connectivity)
+3. PostgreSQL
